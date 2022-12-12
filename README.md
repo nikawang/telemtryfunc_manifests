@@ -1,2 +1,2 @@
 # telemtryfunc_manifests
-PROD Onboarding
+PROD Onboarding to EU
