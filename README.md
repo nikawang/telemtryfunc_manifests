@@ -1,1 +1,2 @@
 # telemtryfunc_manifests
+PROD
