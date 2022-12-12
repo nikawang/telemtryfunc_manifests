@@ -8,12 +8,12 @@ generatorOptions:
 
 secretGenerator:
 - name: azfunc-secret
-  namespace: functions-stg
+  namespace: functions-prod
   envs:
     - access.env
 
 
-namespace: functions-stg
+namespace: functions-prod
 replicas:
 - name: azfunc-test
   count: 1
