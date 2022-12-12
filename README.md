@@ -1,2 +1,2 @@
 # telemtryfunc_manifests
-PROD
+PROD Onboarding
