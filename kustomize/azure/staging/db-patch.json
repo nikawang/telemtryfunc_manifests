@@ -10,5 +10,8 @@
    "value": "telemetryproddb"},
    {"op": "replace",
    "path": "/spec/resource/id",
-   "value": "telemetrydb"}
+   "value": "telemetrydb"},
+   {"op": "replace",
+   "path": "/spec/options/autoscaleSettings/maxThroughput",
+   "value": "1200"}
 ]
