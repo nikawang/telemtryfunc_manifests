@@ -13,5 +13,5 @@
    "value": "telemetrydb"},
    {"op": "replace",
    "path": "/spec/options/autoscaleSettings/maxThroughput",
-   "value": "1200"}
+   "value": 1200}
 ]
